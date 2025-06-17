@@ -1,73 +1,44 @@
-# Welcome to your Lovable project
+# Shop Swift - Transform Your WooCommerce Store into a Mobile App
 
-## Project info
+Shop Swift helps e-commerce businesses turn their WooCommerce stores into powerful native mobile apps for iOS and Android in just 2 weeks.
 
-**URL**: https://lovable.dev/projects/eb14e3a6-ecf3-45c5-a5d5-073e429dc1de
+## ✨ Key Features
 
-## How can I edit this code?
+- **Fast Deployment**: Get your mobile app live on app stores in 2 weeks
+- **Native Apps**: True native apps for both iOS and Android platforms
+- **WooCommerce Integration**: Seamless sync with your existing store
+- **Simple Setup**: Easy installation process with minimal technical requirements
+- **Full Customization**: Branded to match your store's identity
+- **Ongoing Support**: Dedicated assistance for smooth operations
 
-There are several ways of editing your application.
+## 🚀 Why Shop Swift?
 
-**Use Lovable**
+- Transform your online store into a mobile shopping experience
+- Increase customer engagement and retention
+- Boost sales through mobile commerce
+- Provide a seamless shopping experience across all devices
+- Stand out from competitors with your own branded app
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/eb14e3a6-ecf3-45c5-a5d5-073e429dc1de) and start prompting.
+## 📱 Platform Support
 
-Changes made via Lovable will be committed automatically to this repo.
+- iOS (iPhone & iPad)
+- Android (Phones & Tablets)
 
-**Use your preferred IDE**
+## 💼 Getting Started
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+1. Request a free quote
+2. Share your WooCommerce store details
+3. Review and approve the app design
+4. Launch your mobile app in just 2 weeks
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🤝 Contact Us
 
-Follow these steps:
+Ready to take your WooCommerce store mobile? Contact us for a free consultation:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- Website: [www.shopswift.com](https://www.shopswift.com)
+- Email: contact@shopswift.com
+- Phone: +1 (555) 123-4567
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 📄 License
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/eb14e3a6-ecf3-45c5-a5d5-073e429dc1de) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+© 2024 Shop Swift. All rights reserved.
