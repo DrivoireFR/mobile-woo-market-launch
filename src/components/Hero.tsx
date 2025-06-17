@@ -1,5 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Smartphone, Zap, Clock } from "lucide-react";
+import logo from '../assets/logo.jpg'
 
 const Hero = () => {
   return (
@@ -10,7 +11,7 @@ const Hero = () => {
         <div className="max-w-4xl mx-auto">
           <div className="flex justify-center mb-8">
             <div className="relative">
-              <Smartphone className="w-16 h-16 text-hero-foreground drop-shadow-lg" />
+              <img src={logo} alt="Logo" className="w-32 h-32 rounded-full bg-white object-cover drop-shadow-lg" />
               <div className="absolute -top-2 -right-2 bg-yellow-400 rounded-full w-6 h-6 flex items-center justify-center">
                 <Zap className="w-3 h-3 text-yellow-800" />
               </div>
